@@ -2,3 +2,4 @@
 Alteração*
 Alteração
 Alteração após criar uma branch.
+Alteração na branch "A".
